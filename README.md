@@ -1,5 +1,5 @@
 # Golang AI Bot Wit.AI/Wolfram/Slack
-This is Golang project builting a Slack bot using Wit.ai and Wolfram Alpha. You can ask the bot questions like "What is the capital of China?"
+This is Golang project builting a Slack bot using Wit.ai and Wolfram Alpha. You can ask the bot questions like
 ![image](https://user-images.githubusercontent.com/96225596/167912639-899c3f43-8587-45f6-b65c-65f819322d27.png)
 
 ## Technologies Used
